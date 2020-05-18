@@ -1,0 +1,1 @@
+Hi! I am a mocked file in the language "C2hs Haskell".

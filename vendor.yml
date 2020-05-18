@@ -1,0 +1,3 @@
+# Files used to generate the mocked languages
+- languages.yml
+- generate_languages.py

@@ -1,0 +1,1 @@
+Hi! I am a mocked file in the language "Java Server Pages".
